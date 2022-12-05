@@ -12,4 +12,7 @@
 При первом использовании Git необходимо представиться. Для этого в терминале нужно выполнить две команды: 
 ```
 git config --global user.name «Ваше имя английскими буквами» 
-git config --global user.email ваша почта@example.com ```
+git config --global user.email ваша почта@example.com 
+```
+
+## 4. Инициализация репозитория
