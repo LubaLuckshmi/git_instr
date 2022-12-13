@@ -1,4 +1,4 @@
-![logo](Git-Logo-1788C.png)
+![Git-Logo-1788C](https://user-images.githubusercontent.com/120129430/207355636-f8d0dc5a-792e-476f-b2f3-d27c1c2733b2.png)
 
 # Работа с Git
 
